@@ -1,0 +1,1 @@
+this synchronization is done by source control of vscode left side menu
